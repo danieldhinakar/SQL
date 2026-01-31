@@ -25,3 +25,11 @@ INSERT INTO Contacts
 (FirstName, LastName, PhoneNumber, Email, Address, City, State, ZipCode, Country, Notes)
 VALUES 
 ('Daniel', 'Dhinakar', '+91-9014549884', 'danieldhinakar@outlook.in', 'Guntur', 'Vinukonda', 'AP', '522647', 'India', 'DevOps');
+
+
+
+SELECT *
+FROM Contacts;
+
+
+
